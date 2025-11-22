@@ -10,7 +10,6 @@ public class EFJ01 {
 		System.out.println(" Projeto EFJ01 \n ");
 		System.out.println(" Aluno: Eliane Ferreira - RA:0024648 \n  ");
 		System.out.println(" Classe EFJ01 Número positivo ou negativo!!! \n ");
-		System.out.println(" Usei atividades anteriores como base ");
 		// ----- Fim do cabeçalho ----
 
 		Scanner captura = new Scanner(System.in);
@@ -28,11 +27,11 @@ public class EFJ01 {
 			} 
 		
 
-			// Fechamos o Scanner
 			captura.close();
 
 		}
 
 	}
+
 
 
