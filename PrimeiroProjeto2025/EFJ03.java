@@ -5,12 +5,11 @@ import java.util.Scanner;
 public class EFJ03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		System.out.println(" Projeto EFJ01 \n ");
 		System.out.println(" Aluno: Eliane Ferreira - RA:0024648 \n  ");
 		System.out.println(" Classe EFJ03 Maior de dois números !!! \n ");
-		System.out.println(" Usei atividades anteriores como base ");
+	
 		// ----- Fim do cabeçalho ----
 
 		Scanner receber = new Scanner(System.in);
@@ -33,3 +32,4 @@ public class EFJ03 {
 	}
 
 }
+
